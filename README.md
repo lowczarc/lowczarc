@@ -1,10 +1,7 @@
 ### Hello ! 👋
 
 I'm Lancelot,
-I'm a software developer currently based in France 🇫🇷
-
-I'm the co-Founder and CTO of [Pianity](https://pianity.com),<br>
-Building on [Arweave](https://arweave.org) for decentralized permanent data storage.
+I'm a software developer and entrepreneur currently based in France 🇫🇷
 
 I <s>rarely</s> sometimes write articles about my learnings and discoveries, you can read them [here](https://blog.lancelot.life)<br>
 I made a list of cool and interesting people you should check out [here](https://lancelot.life/influences)
